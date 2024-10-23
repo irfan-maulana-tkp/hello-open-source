@@ -6,6 +6,7 @@ A repository to learn about open source code contributions flow (_for beginners 
 
 _Sorted alphabetically_
 
+- [Arabic](./translations/README-AR.md) (**العربية**)
 - [Bengali](./translations/README-BN.md) (**বাংলা**)
 - [Chinese](./translations/README-CHI.md) (**中文**)
 - [French](./translations/README-FR.md) (**Français**)
@@ -20,7 +21,7 @@ _Sorted alphabetically_
 - [Portuguese](./translations/README-PT-BR.md) (**Português**)
 - [Russian](./translations/README-RU.md) (**русский**)
 - [Spanish](./translations/README-ES.md) (**Española**)
-- [Telugu](./translations/README-TE.md) {**తెలుగు**}
+- [Telugu](./translations/README-TE.md) (**తెలుగు**)
 - [Thai](./translations/README-TH.md) (**ไทย**)
 - [Urdu](./translations/README-UR.md) (**اردو**)
 
@@ -44,13 +45,14 @@ _Sorted alphabetically_
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
+  linkedin: 'in/xxx',
 }
+
 ```
 
 - Create a pull request to the `master` branch in this repository, read [how to create pull request](https://help.github.com/articles/creating-a-pull-request/)
@@ -107,6 +109,12 @@ After finishing all the steps here, we expect you will have a basic knowledge of
 
 **👉 Do NOT stop here, keep contributing to open-source projects**
 
+## Contributors
+
+Thanks goes to these wonderful people!
+
+![Contributors](https://contrib.rocks/image?repo=mazipan/hello-open-source)
+
 ---
 
-Copyright © 2018-2023 **Irfan Maulana**
+Copyright © 2018-present **Irfan Maulana**
